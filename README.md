@@ -22,7 +22,7 @@ This project is not affiliated with NVIDIA in any way.
 You can install the package using `pip`:
 
 ```bash
-pip install geforce-temp-monitor
+pip install GeforceTempMonitor
 ```
 
 ---
